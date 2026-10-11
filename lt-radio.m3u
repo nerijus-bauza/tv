@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/nerijus-bauza/tv/main/radio.guide.xml.gz"
+
+#EXTINF:-1 tvg-id="LRTRadijas.lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/LRT_RADIJAS.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="LRT Radio",LRT Radijas
+https://stream-live.lrt.lt/radio_radijas/lrt_radijas.m3u8
+
+#EXTINF:-1 tvg-id="LRTKlasika.lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/LRT_KLASIKA.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="LRT Radio",LRT Klasika
+https://stream-live.lrt.lt/radio_klasika/lrt_klasika.m3u8
+
+#EXTINF:-1 tvg-id="LRTOpus.lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/LRT_OPUS.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="LRT Radio",LRT Opus
+https://stream-live.lrt.lt/radio_opus/lrt_opus.m3u8
